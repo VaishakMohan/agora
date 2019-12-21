@@ -2,7 +2,10 @@
 
 this repo demonstrates Uplink Bandwidth, Uplink loss Rate, Uplink Jitter, Downlink Loss Rate using Agora SDK.
 I just Changed the colour and design of the UI of Agora Video stats
+Sample Images on Local Machine: 
+![In-call Statistics of Uplink and Downlink](https://github.com/VaishnavMohan/agora-call-stats/blob/master/images/cap1.JPG)
 
+![Video Call Statistics](https://github.com/VaishnavMohan/agora-call-stats/blob/master/images/cap2.JPG)
 ## Prerequisites
 
 - nodejs LTS
